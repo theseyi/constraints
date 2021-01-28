@@ -1,8 +1,9 @@
 ## Run
 - `yarn`
 - `yarn constraints`
-
+```sh
 ➤ YN0000: Done in 0s 14ms
+```
 
 ### Expected:
 ```sh
